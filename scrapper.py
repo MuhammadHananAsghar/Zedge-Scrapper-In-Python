@@ -1,3 +1,7 @@
+'''
+CREATED BY MUHAMMAD HANAN ASGHAR
+DATA SCIENTIST PYTHONIST
+'''
 import requests
 from bs4 import BeautifulSoup
 def Zedge(search):
